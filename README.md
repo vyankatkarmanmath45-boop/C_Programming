@@ -24,13 +24,6 @@ I am practicing fundamental to advanced concepts of C language.
 - ✅ Structures
 - ⏳ File Handling
 
----
-
-## Run using this command
-
-gcc filename.c -o ./Myexe
-./Myexe
-```
 
 ---
 
@@ -57,3 +50,12 @@ Consistency is my goal 💪
 ---
 
 ⭐ If you like this repo, feel free to star it!
+
+
+---
+
+## Run using this command
+
+gcc filename.c -o ./Myexe
+./Myexe
+```
